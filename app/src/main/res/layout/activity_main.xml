@@ -13,15 +13,32 @@
 	<!--android:layout_height="400px">-->
 
 	<EditText
+		android:paddingBottom="40px"
 		android:id="@+id/finalText"
-		android:maxLines = "100000"
 		android:textIsSelectable="true"
+		android:gravity="top"
 		android:layout_width="match_parent"
 		android:background="@color/colorAccent"
-		android:scrollbars = "vertical"
+		android:inputType="textMultiLine"
 		android:layout_height="400px" />
 
 	<!--</ScrollView>-->
+	<!--<FrameLayout-->
+	<!--android:layout_width="match_parent"-->
+	<!--android:layout_height="400px">-->
+
+	<!--<TextView-->
+	<!--android:layout_width="match_parent"-->
+	<!--android:layout_height="wrap_content"-->
+	<!--android:text="0000"-->
+	<!--android:visibility="invisible" />-->
+
+	<!--<EditText-->
+	<!--android:id="@+id/finalText"-->
+	<!--android:inputType="text"-->
+	<!--android:layout_width="match_parent"-->
+	<!--android:layout_height="wrap_content"/>-->
+	<!--</FrameLayout>-->
 
 	<android.support.v7.widget.RecyclerView
 		android:id="@+id/recycler_view"

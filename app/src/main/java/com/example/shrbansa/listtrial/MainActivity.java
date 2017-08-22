@@ -1,5 +1,6 @@
 package com.example.shrbansa.listtrial;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -10,6 +11,7 @@ import android.text.method.ScrollingMovementMethod;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.WindowManager;
 import android.widget.EditText;
 
 import com.example.shrbansa.listtrial.model.Message;
@@ -178,6 +180,23 @@ public class MainActivity extends AppCompatActivity implements MessageAdapter.Me
 		mAdapter.notifyDataSetChanged();
 		if(isAccepted) {
 			finalMessageView.append(message);
+		}
+		finalMessageView.setSelection(finalMessageView.getText().length());
+		//finalMessageView.clearFocus();
+		hideKeyboard(this);
+	}
+
+	public static void showKeyboard(Activity activity) {
+		if (activity != null) {
+			activity.getWindow()
+					.setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_VISIBLE);
+		}
+	}
+
+	public static void hideKeyboard(Activity activity) {
+		if (activity != null) {
+			activity.getWindow()
+					.setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
 		}
 	}
 }
