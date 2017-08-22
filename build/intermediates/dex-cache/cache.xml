@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_d1827c94de5ab9f0ffebab536ebe499fcd2cad43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_e2e1e42a62f79a2f3c56e907492c1776113c2099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_13917cea164d7a431472c5eced89c89af3247334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_fd5a92be00ab4628bd46089f5a98d6c3ba97098f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_d378748d268c4557041df75ae02e372953c0bb0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_fe55550465ee40b56c11b251e8a50ddbbd74675b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_a3d371708360e7990e5559fdf3fb550e9f741862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/okio-1.6.0_875b7a9b3951725cc5f052f8ab0811cf924ba33d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_d290f64ca94eb17bf6b3ff49297acad7baee39bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5a0b2e44322f249faaaf0b681717d66474cf30a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1408302d928084ce06ba791c56062d6bb86589f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_840fc449f0afe7d7ea0ea230fb50baf623cc4764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_3c31c65174fe722c487262c357f6aebf33902a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_6477ba637a28a25ac08fc12510dca847b6e6e51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shrbansa/bolt/summary/ListTrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_945cc353bf6b029129818b78ac2a120aa13bbd82.jar" />
+    </item>
+
+</items>
